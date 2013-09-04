@@ -1,0 +1,11 @@
+[
+  { "keys": ["ctrl+alt+shift+s"], "command": "show_overlay", "args": {"overlay": "command_palette", "text": "Set Syntax: "} },
+
+  // Replicate VIM cursor key bindings
+  { "keys": ["ctrl+h"], "command": "move", "args": {"by": "characters", "forward": false} },
+  { "keys": ["ctrl+l"], "command": "move", "args": {"by": "characters", "forward": true} },
+  { "keys": ["ctrl+k"], "command": "move", "args": {"by": "lines", "forward": false} },
+  { "keys": ["ctrl+j"], "command": "move", "args": {"by": "lines", "forward": true} },
+  { "keys": ["super+v"], "command": "paste_and_indent" },
+  { "keys": ["super+shift+v"], "command": "paste" }
+]
