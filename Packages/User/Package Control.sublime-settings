@@ -12,7 +12,6 @@
 		"Color Highlighter",
 		"Comment-Snippets",
 		"Comments Aware Enter",
-		"DetectSyntax",
 		"Djaneiro",
 		"Emmet",
 		"Git",
@@ -36,7 +35,6 @@
 		"Theme - Flatland",
 		"TrailingSpaces",
 		"Web Inspector",
-		"Whitespaces",
-		"ZenCoding"
+		"Whitespaces"
 	]
 }
