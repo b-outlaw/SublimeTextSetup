@@ -1,4 +1,15 @@
 Backup/
 Backup/*
+
 Settings/
 Settings/*
+
+Installed Packages/
+Installed Packages/*
+
+Pristine Packages/
+Pristine Packages/*
+
+Packages/
+Packages/*
+!Packages/User/*
