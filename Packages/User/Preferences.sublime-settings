@@ -1,0 +1,32 @@
+{
+	"detect_slow_plugins": false,
+	"fade_fold_buttons": false,
+	"font_face": "Menlo Regular",
+	"font_size": 15.0,
+	"ignored_packages":
+	[
+		"Theme - Flatland",
+		"Sass",
+		"Vintage",
+		"Pretty JSON",
+		"SideBarGit",
+		"Simple Ember.js Navigator",
+		"Shrink Whitespaces",
+		"Whitespaces",
+		"SideBarEnhancements",
+		"MoveTab"
+	],
+	"js":
+	{
+		"linecomments_alt_enter": true,
+		"linecomments_ctrl_enter": true,
+		"linecomments_shift_enter": true,
+		"linecomments_super_enter": true
+	},
+	"preview_on_click": false,
+	"shift_tab_unindent": true,
+	"tab_size": 4,
+	"translate_tabs_to_spaces": true,
+	"trim_trailing_white_space_on_save": true,
+	"wrap_width": 100000
+}
